@@ -71,9 +71,9 @@ The framework additionally evaluates:
 
 ### 7.Spatial Constraint Assessment
 
-• Proximity to surrounding land masses
-• Corridor confinement characteristics
-• Spatial context of vessel movement
+* Proximity to surrounding land masses
+* Corridor confinement characteristics
+* Spatial context of vessel movement
 
 ---
 
