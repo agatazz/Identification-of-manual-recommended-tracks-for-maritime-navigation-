@@ -203,7 +203,13 @@ Corridor Extraction
             ↓
 Directional Analysis
             ↓
+Cross-reference with Exisiting Reccomendations
+            ↓
 Reliability Assessment
+            ↓
+Spatial Constraint Assessment
+            ↓
+Visaulization 
             ↓
 Candidate Navigational Corridors
 ```
