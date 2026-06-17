@@ -67,7 +67,13 @@ The framework additionally evaluates:
 * Directional consistency
 * Vessel diversity
 * Tidal dependency
-* Corridor reliability
+* Corridor reliability 
+
+### 7.Spatial Constraint Assessment
+
+• Proximity to surrounding land masses
+• Corridor confinement characteristics
+• Spatial context of vessel movement
 
 ---
 
@@ -107,7 +113,7 @@ The project incorporates several computational geometry and spatial reconstructi
 
 ### Machine Learning / Analysis
 
-* Scikit-learn
+* Skimage
 * SciPy
 
 ### Graph Analysis
